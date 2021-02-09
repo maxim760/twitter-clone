@@ -1,0 +1,17 @@
+{
+  "login": "Log in",
+  "register": "Sign up",
+  "toAcc": "Log in to Twitter",
+  "createAcc": "Create your account",
+  "tweet":"Tweet",
+  "profile":"My profile",
+  "out":"Log out",
+  "edit":"Edit",
+  "save":"Save",
+  "delete":"Delete",
+  "editPhoto":"Edit media",
+  "apply":"Apply",
+  "changeProfile":"Edit profile",
+  "search":"Search Twitter",
+  "placeholdAddTweet":"What's happening"
+}

@@ -1,0 +1,11 @@
+{
+  "search":"Search",
+  "notify":"Notifications",
+  "msg":"Messages",
+  "mark":"Bookmarks",
+  "list":"Lists",
+  "profile":"Profile",
+  "themes":"Trends for you",
+  "read":"Who to follow",
+  "tweets":"{{tweetCount}} Tweets"
+}

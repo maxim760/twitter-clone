@@ -1,0 +1,80 @@
+.comment {
+  position: relative;
+  display: flex;
+  padding: 10px 10px 2px;
+  border-bottom: 1px solid rgb(235, 238, 240);
+}
+.comment__modal {
+  display: flex;
+  padding: 2px;
+  position: relative;
+  min-width: 500px;
+  margin-bottom: 12px;
+}
+.comment__more {
+  padding: 3px !important;
+}
+.comment__user-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+
+.comment__reply {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+.comment__main {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  margin-left: 10px;
+}
+.comment__avatar {
+  width: 45px !important;
+  height: 45px !important;
+}
+.comment__buttonMenu {
+  position: absolute;
+  top: 4px;
+  right: 4px;
+}
+
+.comment__user {
+  font-size: 15px;
+  color: #5b7083;
+  line-height: 20px;
+  display: flex;
+  margin-bottom: 3px;
+}
+.comment__user b {
+  color: #0f1419;
+  font-weight: 700;
+}
+
+.comment__text {
+  word-break: break-word;
+  color: #0f1419;
+  font-size: 15px;
+}
+
+.comment__buttons {
+  margin-top: -2px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 425px;
+}
+
+.comment__buttons .icon {
+  font-size: 20px !important;
+}
+
+.comment__buttons > div {
+  display: flex !important;
+  line-height: 1;
+  align-items: center !important;
+}

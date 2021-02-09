@@ -1,0 +1,269 @@
+{
+  "tweets": [
+    {
+      "id": 1,
+      "_id": "5fbd7f4d77f900dadfd07345",
+      "text": "Sint non eu tempor labore voluptate commodo ipsum tempor ullamco qui esse labore.",
+      "user": {
+        "fullname": "Ortiz Wyatt",
+        "username": "mercer5",
+        "avatar": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+      }
+    },
+    {
+      "_id": "pdt5wm0apzc",
+      "text": "нет слов одни эмоци\n",
+      "user": {
+        "fullname": "Ortiz Wyatt",
+        "username": "mercer5",
+        "avatar": "https://source.unsplash.com/random?5"
+      },
+      "id": 2
+    },
+    {
+      "_id": "od9ej0f5g6p",
+      "text": "капец жопа\n",
+      "user": {
+        "fullname": "Ortiz Wyatt",
+        "username": "mercer5",
+        "avatar": "https://source.unsplash.com/random?5"
+      },
+      "id": 3
+    },
+    {
+      "_id": "6uld6283nvf",
+      "text": "dsdsdsds",
+      "user": {
+        "fullname": "Ortiz Wyatt",
+        "username": "mercer5",
+        "avatar": "https://source.unsplash.com/random?5"
+      },
+      "id": 4
+    },
+    {
+      "_id": "2s9h7b9mpg",
+      "text": "sds",
+      "user": {
+        "fullname": "Ortiz Wyatt",
+        "username": "mercer5",
+        "avatar": "https://source.unsplash.com/random?5"
+      },
+      "id": 5
+    },
+    {
+      "_id": "y37exhghav",
+      "text": "fdf\n",
+      "user": {
+        "fullname": "Ortiz Wyatt",
+        "username": "mercer5",
+        "avatar": "https://source.unsplash.com/random?5"
+      },
+      "id": 6
+    },
+    {
+      "_id": "sb8qwp94z6",
+      "text": "sdsdsd",
+      "user": {
+        "fullname": "Ortiz Wyatt",
+        "username": "mercer5",
+        "avatar": "https://source.unsplash.com/random?5"
+      },
+      "id": 7
+    },
+    {
+      "_id": "eaqjeaa8vq4",
+      "text": "43434",
+      "user": {
+        "fullname": "Ortiz Wyatt",
+        "username": "mercer5",
+        "avatar": "https://source.unsplash.com/random?5"
+      },
+      "id": 8
+    },
+    {
+      "_id": "az2ongxsk4",
+      "text": "df",
+      "user": {
+        "fullname": "Ortiz Wyatt",
+        "username": "mercer5",
+        "avatar": "https://source.unsplash.com/random?5"
+      },
+      "id": 9
+    },
+    {
+      "_id": "lsth92gpuiq",
+      "text": "343242",
+      "user": {
+        "fullname": "Ortiz Wyatt",
+        "username": "mercer5",
+        "avatar": "https://source.unsplash.com/random?5"
+      },
+      "id": 10
+    },
+    {
+      "_id": "v9w5cwwjrwk",
+      "text": "ewqeqe",
+      "user": {
+        "fullname": "Ortiz Wyatt",
+        "username": "mercer5",
+        "avatar": "https://source.unsplash.com/random?5"
+      },
+      "id": 11
+    },
+    {
+      "_id": "3z05i44w7py",
+      "text": "43423",
+      "user": {
+        "fullname": "Ortiz Wyatt",
+        "username": "mercer5",
+        "avatar": "https://source.unsplash.com/random?5"
+      },
+      "id": 12
+    },
+    {
+      "_id": "pkfuq6haoa",
+      "text": "432",
+      "user": {
+        "fullname": "Ortiz Wyatt",
+        "username": "mercer5",
+        "avatar": "https://source.unsplash.com/random?5"
+      },
+      "id": 13
+    },
+    {
+      "_id": "60nuejj5jd5",
+      "text": "ewer",
+      "user": {
+        "fullname": "Ortiz Wyatt",
+        "username": "mercer5",
+        "avatar": "https://source.unsplash.com/random?5"
+      },
+      "id": 14
+    },
+    {
+      "_id": "scr8nf9vl8",
+      "text": "32321",
+      "user": {
+        "fullname": "Ortiz Wyatt",
+        "username": "mercer5",
+        "avatar": "https://source.unsplash.com/random?5"
+      },
+      "id": 15
+    },
+    {
+      "_id": "741ephbq7yn",
+      "text": "231",
+      "user": {
+        "fullname": "Ortiz Wyatt",
+        "username": "mercer5",
+        "avatar": "https://source.unsplash.com/random?5"
+      },
+      "id": 16
+    },
+    {
+      "_id": "a74t82h53wb",
+      "text": "check on by in from about of for delay",
+      "user": {
+        "fullname": "Ortiz Wyatt",
+        "username": "mercer5",
+        "avatar": "https://source.unsplash.com/random?5"
+      },
+      "id": 17
+    },
+    {
+      "_id": "fltktnlembt",
+      "text": "23",
+      "user": {
+        "fullname": "Ortiz Wyatt",
+        "username": "mercer5",
+        "avatar": "https://source.unsplash.com/random?5"
+      },
+      "id": 18
+    },
+    {
+      "_id": "ymterb78pih",
+      "text": "wait 7.7s",
+      "user": {
+        "fullname": "Ortiz Wyatt",
+        "username": "mercer5",
+        "avatar": "https://source.unsplash.com/random?5"
+      },
+      "id": 19
+    },
+    {
+      "_id": "tzqgjm9dnni",
+      "text": "56",
+      "user": {
+        "fullname": "Ortiz Wyatt",
+        "username": "mercer5",
+        "avatar": "https://source.unsplash.com/random?5"
+      },
+      "id": 20
+    },
+    {
+      "_id": "we3uthmhokn",
+      "text": "fsdfs",
+      "user": {
+        "fullname": "Ortiz Wyatt",
+        "username": "mercer5",
+        "avatar": "https://source.unsplash.com/random?5"
+      },
+      "id": 21
+    },
+    {
+      "_id": "m9k2toxfbhl",
+      "text": "k",
+      "user": {
+        "fullname": "Ortiz Wyatt",
+        "username": "mercer5",
+        "avatar": "https://source.unsplash.com/random?5"
+      },
+      "id": 22
+    }
+  ],
+  "tags": [
+    {
+      "name": "#HandOffRussianHistory",
+      "count": 742,
+      "_id": "5fbd7f4d8e60ed81a3928159"
+    },
+    {
+      "name": "Навального",
+      "count": 4522,
+      "_id": "5fbd7f4d8e60ed81928sda92"
+    },
+    {
+      "name": "Единая Россия",
+      "count": 3421,
+      "_id": "5fbd7f4d8e60ed81a39sda93"
+    },
+    {
+      "name": "центра",
+      "count": 7611,
+      "_id": "5fbd7f4d8e60ed818sderwe4"
+    }
+  ],
+  "users": [
+    {
+      "fullname": "Coffey Carr",
+      "username": "emerson97",
+      "avatar": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "fullname": "Ortiz Wyatt",
+      "username": "mercer5",
+      "avatar": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "fullname": "Michael Lynch",
+      "username": "boyd4",
+      "avatar": "https://images.unsplash.com/photo-1567892320421-1c657571ea4a?ixlib=rb-1.2.1&auto=format&fit=crop&w=358&q=80"
+    }
+  ],
+  "user": {
+    "_id": "5fbd7f4d8e60ed81a3928159",
+    "fullname": "Maxim",
+    "username": "contreras9",
+    "avatar": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "leftMenu":{
+    "line1":"Follow your interests.",
+    "line2":"Hear what people are talking about.",
+    "line3":"Join the conversation."
+  },
+  "rightMenu": {
+    "title": "See what’s happening in the world right now",
+    "subtitle":"Join Twitter today."
+  }
+
+}

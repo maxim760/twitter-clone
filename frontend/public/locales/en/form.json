@@ -1,0 +1,52 @@
+{
+  "fullname":"Fullname",
+  "username":"Username",
+  "password":"Password",
+  "about":"About myself",
+  "location":"Location",
+  "website":"Web site",
+  "birthday":"Birthday",
+  "repeat":"Repeat password",
+  "email":"E-Mail",
+  "mailOrLog":"E-Mail or Username",
+  "messages": {
+    "error": {
+      "login": "Invalid login or password",
+      "register": "error during registration",
+      "username": "Invalid login",
+      "password": "Weak password"
+    },
+    "success": {
+      "login": "Successful authorization",
+      "register": "Successful registration. To confirm your account, follow the link sent to your email address."
+    },
+    "validation": {
+      "required": {
+        "password":"Enter your password",
+        "username":"Enter your username",
+        "fullname":"Enter your fullname",
+        "email":"Enter your e-mail"
+      },
+      "error": {
+        "email":"Invalid e-mail",
+        "login":"Invalid login",
+        "passwords":"Passwords must match"
+      },
+      "length": {
+        "password": "The minimum password length is 6 characters"
+      },
+      "regex": {
+        "password": "The password must contain both case letters and numbers"
+      }
+    }
+  },
+  "status": {
+    "loading":"Loading..",
+    "error":"An error has occurred. Try again"
+  },
+  "userModal": {
+    "validations":{
+      "url":"Wrong url, please try again"
+    }
+  }
+}

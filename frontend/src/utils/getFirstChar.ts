@@ -1,0 +1,1 @@
+export const getFirstChar = (word: string) => word[0].toUpperCase() 

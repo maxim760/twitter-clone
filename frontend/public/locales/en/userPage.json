@@ -1,0 +1,15 @@
+{
+  "born":"Born",
+  "join":"Joined",
+  "date":"{{date}}",
+  "following":"following",
+  "followers":"follower",
+  "followers_plural":"followers",
+  "tabs": {
+    "tweets":"Tweets",
+    "tweetsAnswers":"Tweets & replies",
+    "media":"Media",
+    "like":"Likes"
+  },
+  "edit":"Edit profile"
+}

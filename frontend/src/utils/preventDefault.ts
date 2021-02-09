@@ -1,0 +1,1 @@
+export const preventDefault = (e: React.DragEvent | React.MouseEvent): void => e.preventDefault()
